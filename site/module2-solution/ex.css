@@ -4,7 +4,7 @@
 }
 
 body{
-  background-image: url("bg.jpg");
+  background-color: tomato;
   margin: 0;
   padding: 0;
 
@@ -61,7 +61,7 @@ h1{
 }
 
 .wrap{
-  background-color: #e3e3e3;
+  background-color: pink;
   border: 1px solid black;
   float: left;
   margin: 10px;
@@ -83,21 +83,21 @@ section>h3{
 #title1{
   background-color: #e5f3f1;
   border: 1px solid black;
-  color: #ef59a4;
+  color: white;
 
 }
 
 #title2{
   background-color: #50556e;
   border: 1px solid black;
-  color: #eaf9cd;
+  color: white;
 
 }
 
 #title3{
   background-color: #389cc5;
   border: 1px solid black;
-  color: #fdfbfa;
+  color: white;
 
 }
 section>p{
