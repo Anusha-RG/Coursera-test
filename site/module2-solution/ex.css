@@ -4,7 +4,6 @@
 }
 
 body{
-  background-color: tomato;
   margin: 0;
   padding: 0;
 
@@ -81,7 +80,7 @@ section>h3{
 }
 
 #title1{
-  background-color: #e5f3f1;
+  background-color: green;
   border: 1px solid black;
   color: yellow;
 
